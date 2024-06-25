@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
 
 export default App;
 ```
-how to write 
+
 ### React with Tailwind CSS
 
 Here’s an equivalent example using Tailwind CSS:
