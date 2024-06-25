@@ -31,10 +31,5 @@ This repository contains research and examples related to React Native.
 
 - Use the `StyleSheet` API to define styles.
 
-## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/NathanC0926/Research-in-React-Native.git
-   cd Research-in-React-Native
 
